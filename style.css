@@ -1,0 +1,9 @@
+p {
+    font-size: medium;
+}
+
+h1 {
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
